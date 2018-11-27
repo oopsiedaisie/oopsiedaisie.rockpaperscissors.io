@@ -4,7 +4,7 @@ This is my version of Rock Papers Scissors. The video series I followed can be f
 
 ## Getting Started
 
-You can try the game out by going to [my rock paper scissors site](https://oopsiedaisie.github.io/oopsiedaisie.rockpaperscissors.io/).
+You can try the game out by going to [my rock paper scissors site](https://oopsiedaisie.github.io/rockpaperscissors/).
 
 ## Authors
 

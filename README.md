@@ -8,4 +8,4 @@ You can try the game out by going to [my rock paper scissors site](https://oopsi
 
 ## Authors
 
-* **oopsiedaisie** - *Everything* - [PurpleBooth](https://github.com/PurpleBooth)
+* **oopsiedaisie** - *Everything* 
